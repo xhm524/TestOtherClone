@@ -5,4 +5,4 @@ setting login : rigth
 
 terminal : right 
 
-user https
+user https, and new project
